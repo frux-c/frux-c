@@ -5,7 +5,7 @@ Hi there! My name is Abel and I'm a student software developer with and a Python
 
 I'm also proficient in Java and C++, and I have experience with a variety of other technologies and tools. Some of my notable skills include:
 
-- Python: NumPy, Pandas, Django, Flask, OpenCV,
+- Python: NumPy, Pandas, Django, Flask, OpenCV
 - Java: Spring, Hibernate
 - C++: STL, Boost
 - Node : React, NextJS
