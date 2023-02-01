@@ -7,7 +7,7 @@ I'm also proficient in Java and C++, and I have experience with a variety of oth
 
 - Python: NumPy, Pandas, Django, Flask, OpenCV
 - Java: Spring, Hibernate
-- C++: STL, Boost
+- C/C++/C#: STL,.NET
 - Node : React, NextJS
 - Databases: MySQL, MongoDB
 - DevOps: Docker, Git, Redis, Bash, WinPS
