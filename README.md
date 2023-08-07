@@ -6,7 +6,7 @@ Hi there! My name is Abel and I'm a student software developer with and a Python
 I'm also proficient in Java and C++, and I have experience with a variety of other technologies and tools. Some of my notable skills include:
 
 - Python: NumPy, Pandas, Django, Flask, OpenCV
-- Java: Spring, Hibernate
+- Java: Spring, Kotlin
 - C/C++/C#: STL,.NET
 - Node : React, NextJS
 - Databases: MySQL, MongoDB
@@ -14,7 +14,7 @@ I'm also proficient in Java and C++, and I have experience with a variety of oth
 
 ## My Projects
 
-Here are a few of the Python projects that I'm most proud of, however some might have been discontinued:
+Here are some highlights of my projects:
 
 - [Project 1](https://github.com/frux-c/ValorantBot): A completley external Valorant bot that queues for deathmatch to farm XP, has a user interface written using the PyQt5 library and integrates a match stat history.
 - [Project 2](https://github.com/frux-c/VendorBot): A discord bot fully written in python running on AWS, to vend files upon request, some use cases may include Q&A papers, templates, etc...
