@@ -9,13 +9,13 @@ I'm also proficient in Java and C++, and I have experience with a variety of oth
 - Java: Spring, Kotlin
 - C/C++/C#: STL,.NET
 - Node : React, NextJS
-- Databases: MySQL, MongoDB
+- Databases: MySQL, MongoDB, GraphQL
 - DevOps: Docker, Git, Redis, Bash, WinPS
 
 ## My Projects
 
 Here are some highlights of my projects:
-
+- [Project 0](https://github.com/frux-c/uhf_rfid): A external app for the flipper zero that enables UHF RFID Capability
 - [Project 1](https://github.com/frux-c/ValorantBot): A completley external Valorant bot that queues for deathmatch to farm XP, has a user interface written using the PyQt5 library and integrates a match stat history.
 - [Project 2](https://github.com/frux-c/VendorBot): A discord bot fully written in python running on AWS, to vend files upon request, some use cases may include Q&A papers, templates, etc...
 - [Project 3](https://www.abelchaka.com): My own portfolio website.
