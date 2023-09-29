@@ -1,5 +1,4 @@
-# Welcome to my GitHub profile!👋
-
+![Intro](./welcome.svg)
 
 Hi there! My name is Abel and I'm a student software developer with and a Python Entushiast. Whether I'm building web applications, analyzing data, or working on some other project, I enjoy using code to find creative solutions to problems.
 
